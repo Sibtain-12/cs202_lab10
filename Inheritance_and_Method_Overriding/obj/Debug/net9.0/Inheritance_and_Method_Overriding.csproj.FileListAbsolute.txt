@@ -1,0 +1,14 @@
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\bin\Debug\net9.0\Inheritance_and_Method_Overriding.exe
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\bin\Debug\net9.0\Inheritance_and_Method_Overriding.deps.json
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\bin\Debug\net9.0\Inheritance_and_Method_Overriding.runtimeconfig.json
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\bin\Debug\net9.0\Inheritance_and_Method_Overriding.dll
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\bin\Debug\net9.0\Inheritance_and_Method_Overriding.pdb
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\Inheritance_and_Method_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\Inheritance_and_Method_Overriding.AssemblyInfoInputs.cache
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\Inheritance_and_Method_Overriding.AssemblyInfo.cs
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\Inheritance_and_Method_Overriding.csproj.CoreCompileInputs.cache
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\Inheritance_and_Method_Overriding.dll
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\refint\Inheritance_and_Method_Overriding.dll
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\Inheritance_and_Method_Overriding.pdb
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\Inheritance_and_Method_Overriding.genruntimeconfig.cache
+C:\Users\mdsib\OneDrive\Desktop\cs202_lab10\Inheritance_and_Method_Overriding\obj\Debug\net9.0\ref\Inheritance_and_Method_Overriding.dll

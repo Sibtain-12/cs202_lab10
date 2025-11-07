@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Constructors_and_Data_Control/1.0.0": {
+        "runtime": {
+          "Constructors_and_Data_Control.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constructors_and_Data_Control/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
